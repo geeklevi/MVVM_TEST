@@ -1,0 +1,16 @@
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\bin\Debug\MVVM_DEMO.exe
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\bin\Debug\MVVM_DEMO.pdb
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\MVVM_DEMO.csprojResolveAssemblyReference.cache
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\MVVM_DEMO_MarkupCompile.cache
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\MVVM_DEMO_MarkupCompile.lref
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\MVVM_DEMO.g.resources
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\MVVM_DEMO.Properties.Resources.resources
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\MVVM_DEMO.csproj.GenerateResource.Cache
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\MVVM_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\MVVM_DEMO.exe
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\MVVM_DEMO.pdb
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\App.g.cs
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\Views\MainWindow.g.cs
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\Views\MainWindow.baml
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\Views\CustomerInfoView.g.cs
+C:\Users\LEVI\source\repos\MVVM_DEMO\MVVM_DEMO\obj\Debug\Views\CustomerInfoView.baml
